@@ -9,6 +9,7 @@ git add . - добавление всех файлов для работы с Gi
 git add -m "комментарий" - добавление commit в Git
 
 git config --global user.name "Ваш логин"
+git config --global user.email "Ваша почта"
 
 
 
